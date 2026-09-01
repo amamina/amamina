@@ -1,3 +1,24 @@
+<div align="center">
+<img src="YOUR-BANNER-IMAGE-URL" width="100%">
+</div>
+
+
+<div align="center">
+
+## amamina_AminaAyub
+<div align="center">
+
+# AMY
+
+**Computational Biology · Bioinformatics · Cancer Genomics**
+
+`Genomics` · `Transcriptomics` · `Tumor Immunology` · `Multi-omics`
+
+</div>
+
+
+
+
 ## Hi there 👋
 
 # amamina
@@ -9,14 +30,13 @@ Python` `R` `Bioconductor` `Git` `RNA-seq`
 </div>
 
 
-────────────────────────────────────────────
+---
 
  **## AMINA AYUB**
   Computational Biologist
   Bioinformatics | Cancer Genomics 
 
-
-────────────────────────────────────────────
+---
 
 🔬 RESEARCH INTERESTS
 
@@ -24,7 +44,7 @@ Cancer Genomics       Tumor Immunology
 Transcriptomics       RNA-seq
 Germline Genetics     Multi-omics
 
-────────────────────────────────────────────
+---
 
 ##  Technical Skills
 
@@ -58,7 +78,7 @@ Germline Genetics     Multi-omics
 ![BioRender](https://img.shields.io/badge/BioRender-4A90E2?style=flat-square)
 
 
-────────────────────────────────────────────
+---
 
 🧪 PROJECTS
 
@@ -74,7 +94,8 @@ Germline Genetics     Multi-omics
 
 06   VCF-Processing-Pipeline-R  https://github.com/amamina/VCF-Processing-Pipeline-R
 
-────────────────────────────────────────────
+
+---
 
 📊 GITHUB ACTIVITY
 
