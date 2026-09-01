@@ -6,17 +6,7 @@
 <div align="center">
 
 ## Hi there 👋
-
-## amamina_AminaAyub
-<div align="center">
-
-
-**Computational Biology · Bioinformatics · Cancer Genomics**
-
-`Genomics` · `Transcriptomics` · `Tumor Immunology` · `Multi-omics`
-
-</div>
-
+I'm Amina, interested in uncovering biological signals hidden within genomic and transcriptomic data
 
 ---
 
