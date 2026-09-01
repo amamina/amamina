@@ -10,7 +10,6 @@
 ## amamina_AminaAyub
 <div align="center">
 
-# AMY
 
 **Computational Biology · Bioinformatics · Cancer Genomics**
 
