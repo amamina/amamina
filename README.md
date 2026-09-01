@@ -23,3 +23,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+                    🧬 AMY
+          Computational Biologist
+     Bioinformatics | Cancer Genomics
+
+────────────────────────────────────────────
+
+👩‍🔬 ABOUT ME
+
+Biotechnologist interested in computational approaches
+to cancer biology, tumor immunology and genomics.
+
+────────────────────────────────────────────
+
+🔬 RESEARCH INTERESTS
+
+Cancer Genomics       Tumor Immunology
+Transcriptomics       RNA-seq
+Germline Genetics     Multi-omics
+
+────────────────────────────────────────────
+
+💻 TECHNICAL SKILLS
+
+Python     R     Bioconductor     Git
+RNA-seq    GWAS  TWAS             Linux
+
+────────────────────────────────────────────
+
+🧪 PROJECTS
+
+01   RNA-seq Analysis
+02   Microarray Differential Expression Analysis
+03   Cancer Gene-Expression & Biomarker Analysis
+04   Variant Pathogenicity Prediction
+05   Molecular Dynamics Simulation
+
+────────────────────────────────────────────
+
+📊 GITHUB ACTIVITY
+
+[GitHub stats / contribution graph]
+
+────────────────────────────────────────────
