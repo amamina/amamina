@@ -18,7 +18,6 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
   <img src="https://img.shields.io/badge/Tumor%20Immunology-008B8B?style=for-the-badge">
   <img src="https://img.shields.io/badge/Transcriptomics-8A2BE2?style=for-the-badge">
   <img src="https://img.shields.io/badge/RNA--seq-FF6B6B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Germline%20Genetics-20B2AA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Multi--omics-4682B4?style=for-the-badge">
 </p>
 
@@ -60,17 +59,17 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 ---
 
  ##  Featured Projects
-1. **RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis**  
+1. RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis
 
-2. **Microarray Differential Expression Analysis https://github.com/amamina/GeneExpression_MicroArray_Analysis**  
+2. Microarray Differential Expression Analysis https://github.com/amamina/GeneExpression_MicroArray_Analysis
 
-3. **Cancer Gene-Expression & Biomarker Analysis**  
+3. Cancer Gene-Expression & Biomarker Analysis
 
-4. **Variant Pathogenicity Prediction https://github.com/amamina/Variant-Interpretation-Algorithms**
+4. Variant Pathogenicity Prediction https://github.com/amamina/Variant-Interpretation-Algorithms
 
-5. **Molecular Dynamics Simulation**
+5. Molecular Dynamics Simulation
 
-6. **VCF-Processing-Pipeline-R  https://github.com/amamina/VCF-Processing-Pipeline-R**
+6. VCF-Processing-Pipeline-R  https://github.com/amamina/VCF-Processing-Pipeline-R
 
 ---
 
