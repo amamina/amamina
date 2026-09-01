@@ -22,11 +22,16 @@
 ---
 
 
-🔬 RESEARCH INTERESTS
+<h2>🔬 Research Interests</h2>
 
-Cancer Genomics       Tumor Immunology
-Transcriptomics       RNA-seq
-Germline Genetics     Multi-omics
+<p align="center">
+  <img src="https://img.shields.io/badge/Cancer%20Genomics-6A5ACD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tumor%20Immunology-008B8B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Transcriptomics-8A2BE2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RNA--seq-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Germline%20Genetics-20B2AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Multi--omics-4682B4?style=for-the-badge">
+</p>
 
 ---
 
