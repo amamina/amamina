@@ -1,14 +1,10 @@
 ## Hi there 👋
 
-<!--
-**amamina/amamina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div align="center">
-
-# 🧬 amamina
+# amamina
 
 ### Computational Biology • Bioinformatics • Cancer Genomics
 
-`Python` `R` `Bioconductor` `Git` `RNA-seq`
+Python` `R` `Bioconductor` `Git` `RNA-seq`
 
 </div>
 
