@@ -2,20 +2,16 @@
 
 # amamina
 
-### Computational Biology • Bioinformatics • Cancer Genomics
+Computational Biology • Bioinformatics • Cancer Genomics
 
 Python` `R` `Bioconductor` `Git` `RNA-seq`
 
 </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
 
 ────────────────────────────────────────────
 
-  AMINA AYUB
+ **## AMINA AYUB**
   Computational Biologist
   Bioinformatics | Cancer Genomics 
 
@@ -39,19 +35,18 @@ RNA-seq    GWAS  TWAS             Linux
 
 🧪 PROJECTS
 
-01   RNA-seq Analysis
+01   RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis
 
-02   Microarray Differential Expression Analysis
+02   Microarray Differential Expression Analysis https://github.com/amamina/GeneExpression_MicroArray_Analysis
 
 03   Cancer Gene-Expression & Biomarker Analysis
 
-04   Variant Pathogenicity Prediction
+04   Variant Pathogenicity Prediction https://github.com/amamina/Variant-Interpretation-Algorithms
 
 05   Molecular Dynamics Simulation
 
-06   VCF-Processing-Pipeline-R
+06   VCF-Processing-Pipeline-R  https://github.com/amamina/VCF-Processing-Pipeline-R
 
-07   GeneExpression_RNAseq_Analysis
 ────────────────────────────────────────────
 
 📊 GITHUB ACTIVITY
