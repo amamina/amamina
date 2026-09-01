@@ -21,7 +21,7 @@
 ---
 
 
-<h2>🔬 Research Interests</h2>
+<h2> Research Interests</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cancer%20Genomics-6A5ACD?style=for-the-badge">
@@ -68,7 +68,7 @@
 
 ---
 
-🧪 PROJECTS
+ PROJECTS
 
 01   RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis
 
@@ -85,8 +85,3 @@
 
 ---
 
-📊 GITHUB ACTIVITY
-
-[GitHub stats / contribution graph]
-
-────────────────────────────────────────────
