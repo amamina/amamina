@@ -5,6 +5,8 @@
 
 <div align="center">
 
+## Hi there 👋
+
 ## amamina_AminaAyub
 <div align="center">
 
@@ -17,26 +19,8 @@
 </div>
 
 
-
-
-## Hi there 👋
-
-# amamina
-
-Computational Biology • Bioinformatics • Cancer Genomics
-
-Python` `R` `Bioconductor` `Git` `RNA-seq`
-
-</div>
-
-
 ---
 
- **## AMINA AYUB**
-  Computational Biologist
-  Bioinformatics | Cancer Genomics 
-
----
 
 🔬 RESEARCH INTERESTS
 
