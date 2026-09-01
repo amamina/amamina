@@ -15,24 +15,14 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-                    🧬 AMY
-          Computational Biologist
-     Bioinformatics | Cancer Genomics
+
 
 ────────────────────────────────────────────
 
-👩‍🔬 ABOUT ME
+  AMINA AYUB
+  Computational Biologist
+  Bioinformatics | Cancer Genomics 
 
-Biotechnologist interested in computational approaches
-to cancer biology, tumor immunology and genomics.
 
 ────────────────────────────────────────────
 
@@ -54,11 +44,18 @@ RNA-seq    GWAS  TWAS             Linux
 🧪 PROJECTS
 
 01   RNA-seq Analysis
+
 02   Microarray Differential Expression Analysis
+
 03   Cancer Gene-Expression & Biomarker Analysis
+
 04   Variant Pathogenicity Prediction
+
 05   Molecular Dynamics Simulation
 
+06   VCF-Processing-Pipeline-R
+
+07   GeneExpression_RNAseq_Analysis
 ────────────────────────────────────────────
 
 📊 GITHUB ACTIVITY
