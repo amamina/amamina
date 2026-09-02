@@ -55,22 +55,25 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square\&logo=adobeillustrator\&logoColor=white)
 ![BioRender](https://img.shields.io/badge/BioRender-4A90E2?style=flat-square)
 
-</div>
+<h2 align="left">Featured Projects</h2>
+
+<div align="left">
 
 
 ##  Featured Projects
 
-1. **RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis**
+1. RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis
    
-2. **Microarray Differential Expression Analysis https://github.com/amamina/GeneExpression_MicroArray_Analysis**
+2. Microarray Differential Expression Analysis https://github.com/amamina/GeneExpression_MicroArray_Analysis
 
-3. **Cancer Gene-Expression & Biomarker Analysis**
+3. Cancer Gene-Expression & Biomarker Analysis
 
-4. **Variant Pathogenicity Prediction https://github.com/amamina/Variant-Interpretation-Algorithms**
+4. Variant Pathogenicity Prediction https://github.com/amamina/Variant-Interpretation-Algorithms
 
-5. **Molecular Dynamics Simulation**
+5. Molecular Dynamics Simulation
 
 6. VCF-Processing-Pipeline-R  https://github.com/amamina/VCF-Processing-Pipeline-R
 
+</div>
 
 
