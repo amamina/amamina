@@ -14,11 +14,11 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 <h2> Research Interests</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cancer%20Genomics-6A5ACD?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tumor%20Immunology-008B8B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Transcriptomics-8A2BE2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/RNA--seq-FF6B6B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Multi--omics-4682B4?style=for-the-badge">
+  Cancer Genomics
+  Tumor Immunology
+  Transcriptomics
+  RNA-seq
+  Multi-omics
 </p>
 
 <div align="center">
