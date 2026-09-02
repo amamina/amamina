@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./https://github.com/amamina/amamina/blob/4ab4a4c1ce427ac1be7b0bba8f06830798367b1e/name_banner.png" width="100%" height="300">
+  <img src=".name.png" width="100%" height="300">
 </div>
 
 <div align="center">
