@@ -1,7 +1,6 @@
 <div align="center">
-<img src="YOUR-BANNER-IMAGE-URL" width="100%">
+  <img src="./github-banner.png" width="100%">
 </div>
-
 
 <div align="center">
 
