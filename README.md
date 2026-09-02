@@ -14,10 +14,10 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 <h2> Research Interests</h2>
 
 <p align="center">
-  Cancer Genomics
-  Tumor Immunology
-  Transcriptomics
-  RNA-seq
+  Cancer Genomics,
+  Tumor Immunology,
+  Transcriptomics,
+  RNA-seq &
   Multi-omics
 </p>
 
