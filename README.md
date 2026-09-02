@@ -18,9 +18,8 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
   <img src="https://img.shields.io/badge/Multi--omics-4682B4?style=for-the-badge">
 </p>
 
-</div>
+<div align="center">
 
----
 
 ##  Technical Skills
 
