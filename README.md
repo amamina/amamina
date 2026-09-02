@@ -2,7 +2,7 @@
   <img src=".name.png" width="100%" height="300">
 </div>
 
-<div align="center">
+<div align="center"> 
 
 ## Hi there 👋
 I'm Amina, interested in uncovering biological signals hidden within genomic and transcriptomic data
