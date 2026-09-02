@@ -2,6 +2,7 @@
   <img src="name.png" width="100%" height="300">
 </div>
 
+<div align="center">
 ## Hi there 👋
 I'm Amina, interested in uncovering biological signals hidden within genomic and transcriptomic data
 
@@ -50,8 +51,6 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square\&logo=adobeillustrator\&logoColor=white)
 ![BioRender](https://img.shields.io/badge/BioRender-4A90E2?style=flat-square)
-
-</div>
 
 ---
 
