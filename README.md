@@ -55,10 +55,10 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square\&logo=adobeillustrator\&logoColor=white)
 ![BioRender](https://img.shields.io/badge/BioRender-4A90E2?style=flat-square)
 
+---
 
  </div>
 
-  
 **Featured Projects**
 
 1. RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis
