@@ -59,7 +59,7 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 
  </div>
 
-**Featured Projects**
+##  Featured Projects
 
 1. RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis
    
