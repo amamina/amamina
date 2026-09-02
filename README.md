@@ -56,10 +56,9 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 ![BioRender](https://img.shields.io/badge/BioRender-4A90E2?style=flat-square)
 
 ---
-<h2>Projects</h2>
+<td width="50%" valign="top">
 
-
- ##  Featured Projects
+<h2>Featured Projects</h2>
 1. RNA-seq Analysis https://github.com/amamina/GeneExpression_RNAseq_Analysis
 
 2. Microarray Differential Expression Analysis https://github.com/amamina/GeneExpression_MicroArray_Analysis
