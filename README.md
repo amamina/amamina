@@ -5,8 +5,7 @@
 ## Hi there 👋
 I'm Amina, interested in uncovering biological signals hidden within genomic and transcriptomic data
 
----
-
+<div align="center">
 
 <h2> Research Interests</h2>
 
