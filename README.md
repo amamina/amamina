@@ -32,6 +32,8 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square\&logo=rstudio-ide\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Marimo](https://img.shields.io/badge/Marimo-18181B?style=flat-square&logo=marimo&logoColor=white)
 
 **Bioinformatics & Computational Biology**
 
