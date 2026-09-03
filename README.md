@@ -56,7 +56,7 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square\&logo=adobeillustrator\&logoColor=white)
 ![BioRender](https://img.shields.io/badge/BioRender-4A90E2?style=flat-square)
 
-<h2 align="left">Featured Projects</h2>
+<h2 align="left"></h2>
 
 <div align="left">
 
