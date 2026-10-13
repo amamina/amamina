@@ -72,9 +72,7 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
 
 4. Variant Pathogenicity Prediction https://github.com/amamina/Variant-Interpretation-Algorithms
 
-5. Molecular Dynamics Simulation
-
-6. VCF-Processing-Pipeline-R  https://github.com/amamina/VCF-Processing-Pipeline-R
+5. VCF-Processing-Pipeline-R  https://github.com/amamina/VCF-Processing-Pipeline-R
 
 </div>
 
