@@ -68,7 +68,7 @@ I'm Amina, interested in uncovering biological signals hidden within genomic and
    
 2. Microarray Differential Expression Analysis https://github.com/amamina/GeneExpression_MicroArray_Analysis
 
-3. Cancer Gene-Expression & Biomarker Analysis
+3. Cancer Gene-Expression & Biomarker Analysis https://github.com/amamina/biomarkers
 
 4. Variant Pathogenicity Prediction https://github.com/amamina/Variant-Interpretation-Algorithms
 
